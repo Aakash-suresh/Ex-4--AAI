@@ -71,8 +71,7 @@ for t in range(len(observed_sequence)):
 ```
 # Print the most likely sequence of weather states
 ```python
-print("The most likely sequence of weather states is:",most_likely_sequence)![exp5](https://github.com/JEEVAABI/Experiment-3--Hidden-Markov-Model/assets/93427098/f0d703d8-2522-412a-bedd-f201f5c54ee5)
-
+print("The most likely sequence of weather states is:",most_likely_sequence),
 ```
 
 ## Output:
